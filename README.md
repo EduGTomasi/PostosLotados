@@ -1,4 +1,4 @@
-# 📱 PostoCalmo - Aplicativo Híbrido (Web & Mobile)
+# 📱 PostoCalmo - Aplicativo Híbrido (Web & Mobile) x
 
 O **PostoCalmo** é uma aplicação voltada à visualização e escolha inteligente de postos de saúde com base em critérios como localização e nível de ocupação. Este repositório contém o front-end do projeto desenvolvido com **React Native via Expo**, com suporte a múltiplas plataformas (Web e Mobile).
 
